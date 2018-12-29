@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="Pac_man3/json-simple-1.1.jar"/>
 	<classpathentry kind="lib" path="Pac_man3/mysql-connector-java-5.1.47.jar"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="Pictures&amp;Icones"/>
 	<classpathentry kind="output" path="Pac_man3/bin"/>
 </classpath>
